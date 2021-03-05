@@ -1,5 +1,3 @@
-# DYVINE
- DYnamic forwarding graphs for VIrtual NEtwork functions.
 # Description
 This work proposes routing VNFs with re-configurable wiring capabilities as a novel concept that would allow agile and dynamic VNFs wiring from design-time to run-time.
 
